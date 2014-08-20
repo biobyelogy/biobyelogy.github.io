@@ -1,0 +1,12 @@
+# Site settings
+title: Bio Farewell
+email: biotrans@outlook.com
+description: "离开生物学术圈，是幸福人生的必要条件！"
+baseurl: ""
+url: "http://biobyelogy.github.io"
+github_username: biobyelogy
+
+# Build settings
+highlighter: true
+markdown: kramdown
+permalink: pretty
