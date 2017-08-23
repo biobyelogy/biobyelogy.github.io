@@ -7,7 +7,7 @@ title: Biobyelogy
 subtitle:
 description: "离开生物学术圈，是幸福人生的必要条件！"
 author: "生物你好生物再见"
-language: zh-CN
+language: zh-Hans
 timezone:
 
 # URL
@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
