@@ -78,5 +78,11 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:biobyelogy/biobyelogy.github.io.git
+  # Git url starts with biobyelogy instead of github due to multi-SSH config for github:  
+  # Host biobyelogy
+  #  Hostname github.com
+  #  PreferredAuthentications publickey
+  #  IdentityFile <private key file path>
+  #  IdentitiesOnly yes
+  repository: git@biobyelogy:biobyelogy/biobyelogy.github.io.git
   branch: gh-pages
