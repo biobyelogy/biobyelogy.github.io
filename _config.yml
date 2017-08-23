@@ -85,4 +85,4 @@ deploy:
   #  IdentityFile <private key file path>
   #  IdentitiesOnly yes
   repository: git@biobyelogy:biobyelogy/biobyelogy.github.io.git
-  branch: gh-pages
+  branch: master
