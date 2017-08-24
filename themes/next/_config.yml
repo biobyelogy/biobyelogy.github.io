@@ -70,15 +70,15 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
-
+`
 
 # ---------------------------------------------------------------
 # Scheme Settings
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
-#scheme: Mist
+# scheme: Muse
+scheme: Mist
 #scheme: Pisces
 #scheme: Gemini
 
