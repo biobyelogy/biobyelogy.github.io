@@ -87,3 +87,4 @@ deploy:
   repository: git@biobyelogy:biobyelogy/biobyelogy.github.io.git
   branch: master
   name: biobyelogy
+  email: biobyelogy@outlook.com
