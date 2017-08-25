@@ -31,6 +31,7 @@ before_script:
 - git config --global user.email 'biobyelogy@outlook.com'
 
 script:
+- hexo clean
 - hexo generate
 
 after_success:
@@ -40,6 +41,7 @@ after_success:
 - rm -rf ./*
 - cp -r ../public/* .
 - git add -A .
-- git commit -m 'Site updated'
+- COMMIT_MESSAGE="Site updated `date '+%Y-%m-%d %H:%M:%S'`"
+- git commit -m "${COMMIT_MESSAGE}"
 - git branch -m master
 - git push -q -u origin master
