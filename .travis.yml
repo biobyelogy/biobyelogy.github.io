@@ -20,6 +20,9 @@ branches:
   only:
   - hexo
 
+notifications:
+  email: false
+
 before_install:
 - npm install -g hexo
 
