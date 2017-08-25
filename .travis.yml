@@ -44,7 +44,7 @@ after_success:
 - rm -rf ./*
 - cp -r ../public/* .
 - git add -A .
-- COMMIT_MESSAGE="Site updated `date '+%Y-%m-%d %H:%M:%S'`"
+- COMMIT_MESSAGE="Site updated by travis-ci `date '+%Y-%m-%d %H:%M:%S'`"
 - git commit -m "${COMMIT_MESSAGE}"
 - git branch -m master
 - git push -q -u origin master
