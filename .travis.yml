@@ -17,7 +17,8 @@ node_js:
 - 7
 
 branches:
-  only: hexo
+  only:
+  - hexo
 
 before_install:
 - npm install -g hexo
