@@ -1,5 +1,5 @@
 ---
-title: 2013 life science salary survey
+title: The Scientist 2013 生命科学薪酬调查
 date: 2013-11-10 15:00
 tags: 薪酬
 ---
