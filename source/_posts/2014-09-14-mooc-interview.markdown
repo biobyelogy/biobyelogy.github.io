@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  "答 MOOC 学院问"
-date:   2014-09-14 15:32:11
-categories:
+title: 答 MOOC 学院问
+date: 2014-09-14 15:32:11
+tags:
 ---
 
 ## 问：你为什么要转行？为什么要离开生物行业，又为什么选择计算机？
