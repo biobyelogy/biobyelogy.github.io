@@ -1,7 +1,7 @@
 ---
 title: 问答：已经决定转 CS，要不要 quit
 date: 2014-08-10 15:13:00
-tags:
+tags: [问答, CS, quit]
 ---
 
 ### 问
