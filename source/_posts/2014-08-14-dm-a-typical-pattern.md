@@ -1,5 +1,5 @@
 ---
-title: dm a typical pattern
+title: 网友私信：掉进生物大坑的典型思维
 date: 2014-08-14 06:26:00
 tags: [网友私信, 如何识别生物大坑]
 ---
