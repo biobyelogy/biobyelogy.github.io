@@ -92,3 +92,8 @@ deploy:
   branch: master
   name: biobyelogy
   email: biobyelogy@outlook.com
+
+feed:
+  type: rss2
+  path: feed.xml
+  limit: false
