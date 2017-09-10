@@ -53,6 +53,7 @@ menu:
   tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404/
+  repository: https://github.com/biobyelogy/biobyelogy.github.io
   subscribe: https://biobyelogy.github.io/feed.xml
 
 # Enable/Disable menu icons.
@@ -71,6 +72,7 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
+  repository: github-alt
   subscribe: rss
 
 # ---------------------------------------------------------------
