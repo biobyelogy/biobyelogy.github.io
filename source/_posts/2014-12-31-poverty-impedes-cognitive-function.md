@@ -11,6 +11,6 @@ tags: [为什么要转行, 如何识别生物大坑, 如何选实验室]
 
 同样，博士生在一周七天无休周末开组会的实验室里，是不会成为优秀科学家的，所有精力全部耗尽，无暇深度思考。
 
-[全文](http://www2.warwick.ac.uk/fac/soc/economics/staff/amani/mani_science_976.full.pdf)
+[全文](https://www2.warwick.ac.uk/fac/soc/economics/staff/amani/mani_science_976.full.pdf)
 
-{% pdf http://www2.warwick.ac.uk/fac/soc/economics/staff/amani/mani_science_976.full.pdf %}
+{% pdf https://www2.warwick.ac.uk/fac/soc/economics/staff/amani/mani_science_976.full.pdf %}
