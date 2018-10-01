@@ -45,4 +45,4 @@ tags: [问答, 导师, 实习]
 最后谈一下不得不 quit PhD 转 master 毕业的情况。
 1. 一定要搞清楚学校和院系 PhD 转 master 的政策，可以找国际学生办公室的人咨询。确保自己能转成功。这个一般没有难度。
 2. 申请 ds master。你已经找到实习的情况下，被录取的概率还是很高的，尤其是同校的 program。
-3. 实习照去。如果有 head count 的话，只要实习表现好，拿到 full-time offer 概率很大，而且比直接找 full-time 容易。到时候说不定公司也不计较你没有 PhD 学位了。就算这家公司因为学问问题不给 full-time offer，用这段实习经历找其他公司也方便。
+3. 申请到 ds master 之后就能用 master opt 去实习了。如果有 head count 的话，只要实习表现好，拿到 full-time offer 概率很大，而且比直接找 full-time 容易。到时候说不定公司也不计较你没有 PhD 学位了。就算这家公司因为学位问题不给 full-time offer，用这段实习经历找其他公司也方便。
