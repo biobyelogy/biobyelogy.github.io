@@ -1,5 +1,5 @@
 ---
-title: VicodinXYZ 的决策核心原则在转行上的应用。
+title: VicodinXYZ 的决策核心原则在转行上的应用
 date: 2018-10-11 00:28:08
 tags: [可逆转行, 原则]
 ---
