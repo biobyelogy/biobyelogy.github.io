@@ -33,7 +33,9 @@ post:
   toc_empty: This post does not have a Table of Contents
   visitors: Visitors
   wordcount: Words count in article
+  word: words
   min2read: Reading time
+  min: min
   copyright:
       author: Post author
       link: Post link

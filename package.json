@@ -6,6 +6,7 @@
     "version": "3.8.0"
   },
   "dependencies": {
+    "ejs": ">=2.5.5",
     "hexo": "^3.8.0",
     "hexo-deployer-git": "^1.0.0",
     "hexo-generator-archive": "^0.1.5",
@@ -20,6 +21,6 @@
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.3.1",
     "hexo-tag-owl": "^1.2.2",
-    "ejs": ">=2.5.5"
+    "hexo-wordcount": "^6.0.1"
   }
 }

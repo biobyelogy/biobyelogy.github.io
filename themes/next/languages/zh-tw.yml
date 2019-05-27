@@ -34,7 +34,9 @@ post:
   toc_empty: 此文章未包含目錄
   visitors: 閱讀次數
   wordcount: 字數統計
+  word: 字
   min2read: 閱讀時長
+  min: 分鍾
   copyright:
     author: Post author
     link: Post link

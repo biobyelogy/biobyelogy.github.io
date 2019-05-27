@@ -214,6 +214,7 @@
                 {% endif %}
                 <span title="{{ __('post.wordcount') }}">
                   {{ wordcount(post.content) }}
+                  {{ __('post.word') }}
                 </span>
               {% endif %}
 
@@ -230,6 +231,7 @@
                 {% endif %}
                 <span title="{{ __('post.min2read') }}">
                   {{ min2read(post.content) }}
+                  {{ __('post.min') }}
                 </span>
               {% endif %}
             </div>
