@@ -1637,6 +1637,9 @@ pre .javascript .function {
   background-color: #f9f9f9;
   list-style: none;
 }
+.post-wordcount {
+  display: inline-block;
+}
 .rtl.post-body p,
 .rtl.post-body a,
 .rtl.post-body h1,
@@ -1814,7 +1817,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #6996a7;
+  background: #5b4fb9;
 }
 .links-of-blogroll {
   font-size: 13px;
