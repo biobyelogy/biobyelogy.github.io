@@ -7,10 +7,7 @@
 
 <html class="{{ html_class | lower }}" lang="{{ config.language }}">
 <head>
-  <!-- Google AdSense start -->
   {% include '_custom/google_adsense.ejs' %}
-  <!-- Google AdSense end -->
-
   {% include '_partials/head.swig' %}
   <title>{% block title %}{% endblock %}</title>
   {% include '_third-party/analytics/index.swig' %}
@@ -35,6 +32,7 @@
         <div class="content-wrap">
           <div id="content" class="content">
             {% block content %}{% endblock %}
+            {% include '_custom/google_adunit.ejs' %}
           </div>
           {% include '_third-party/duoshuo-hot-articles.swig' %}
           {% include '_partials/comments.swig' %}
