@@ -25,7 +25,7 @@ tags:
 # 附
 ## 公众号二维码
 
-<img src="/images/biobyelogy-qrcode.bmp" width="30%">
+<img src="/images/biobyelogy-qrcode.jpeg" width="30%">
 
 ## Changelog
 - 2019-12-16 快写 30 分钟
