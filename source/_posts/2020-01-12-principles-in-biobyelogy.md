@@ -1,7 +1,7 @@
 ---
 title: 转行方法论（一）
 date: 2020-01-12 18:12:09
-tags:
+tags: [公众号]
 ---
 
 上周讲了生物转行中最简单的一类：[本科转行](https://www.biobyelogy.com/2020/01/04/how-to-change-career-for-undergraduates/)。在继续介绍硕博转行方法之前，我先说几条通用的指导原则，为之后的文章做铺垫。
@@ -55,6 +55,14 @@ tags:
 2020 年，我每周更新一篇千字文，手把手教大家转出生物圈，详情请见[《生物你好生物再见》账号重启计划](https://www.biobyelogy.com/2019/12/22/reboot-of-biobyelogy/)。欢迎关注我的微信公众号。
 
 <img src="/images/biobyelogy-qrcode.png" width="50%">
+
+## 文章链接
+- [公众号](https://mp.weixin.qq.com/s/ddaYPxBhyOsRt8p0Qgk1vA)
+- [知乎](https://zhuanlan.zhihu.com/p/102462609)
+
+## 往期文章
+- [如何评估一个专业](https://www.biobyelogy.com/2019/12/29/how-to-evaluate-a-major/)
+- [本科转行全攻略](https://www.biobyelogy.com/2020/01/04/how-to-change-career-for-undergraduates/)
 
 ## Changelog
 2020-01-11 写作两个半小时

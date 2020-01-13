@@ -39,6 +39,10 @@ tags: [公众号]
 
 <img src="/images/biobyelogy-qrcode.png" width="50%">
 
+## 文章链接
+- [公众号](https://mp.weixin.qq.com/s/SfZjG4rUBDC0QuT3Swb10g)
+- [知乎](https://zhuanlan.zhihu.com/p/100519768)
+
 ## Changelog
 2019-12-28 四小时写作与修改
 2019-12-29 三小时写作与修改
