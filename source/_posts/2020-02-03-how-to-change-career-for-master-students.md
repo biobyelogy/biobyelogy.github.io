@@ -58,5 +58,6 @@ tags: [公众号]
 - [本科转行全攻略](https://www.biobyelogy.com/2020/01/04/how-to-change-career-for-undergraduates/)
 
 ## Changelog
-2020-01-11 写作两个半小时
-2020-01-12 写作三小时
+2020-01-18 Brainstorm
+2020-01-19 第一部分
+2020-02-02 第二部分
