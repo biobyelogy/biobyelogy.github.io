@@ -52,6 +52,9 @@ tags: [公众号]
 
 <img src="/images/biobyelogy-qrcode.png" width="50%">
 
+## 文章链接
+- [公众号](https://mp.weixin.qq.com/s/J0lIUXqL4s894SRfYoDo3Q)
+
 ## 往期文章
 - [如何评估一个专业](https://www.biobyelogy.com/2019/12/29/how-to-evaluate-a-major/)
 - [转行方法论（一）](https://www.biobyelogy.com/2020/01/12/principles-in-biobyelogy/)
